@@ -1,0 +1,28 @@
+# Parameters
+/app/config/parameters.yml
+/app/config/parameters.yml.bak
+.env
+
+# Logs
+app/logs
+
+# autotune
+autotune.json
+
+# Managed by package managers
+/vendor/
+/assets/bower/
+/web/bower/
+/web/modules/
+
+# Composer PHAR
+/composer.phar
+
+# Tests
+tests/behat.yml
+tests/phpunit.xml
+
+# Mac
+.DS_Store
+
+npm-debug.log
