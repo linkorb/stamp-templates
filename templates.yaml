@@ -1,0 +1,3 @@
+- src: "{{ templateBase }}/README.md.twig"
+  dest: README.md
+
